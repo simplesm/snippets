@@ -1,11 +1,11 @@
 # snippets
-snippets is an app which bundles all frequently used UI5 patterns at one place. 
+snippets is an app which bundles frequently used UI5 patterns at one place. 
 
-snippets is not intended to be a be a UI5 tutorial. There a tons of tutorials that can be found in the internet and I strongly recommend to read the [Developer Guide](https://openui5.hana.ondemand.com/#docs/guide/Documentation.html) and go through the [SAP's UI5 API reference](https://openui5.hana.ondemand.com/#docs/api/symbols/sap.ui.html) as a starting point. It can be considered as a toolbox wich provides for any situation the right pattern. 
+snippets is not intended to be a UI5 tutorial. There are tons of tutorials in the internet and I strongly recommend to read the [Developer Guide](https://openui5.hana.ondemand.com/#docs/guide/Documentation.html) and go through the [SAP's UI5 API reference](https://openui5.hana.ondemand.com/#docs/api/symbols/sap.ui.html) as a starting point. 
 
-Each snippet consists of a working example and the corresponding snippet. So in order to see how it works you can browse the example code and copy it into your device's clipboard for further processing.
+snippets can be considered as a toolbox which provides the right pattern for various requirements. Quicklinks direct you to working samples and the corresponding snippets. Select the required sample and copy the source code to your clipboard.
 
-It can be downloaded in the Apple App Store for free.
+snippets can be downloaded in the Apple App Store for free.
 
 snippets was designed and built by Stephan Molden. snippets, simplesm, and the snippets logo are all copyright © Stephan Molden 2020.
 
