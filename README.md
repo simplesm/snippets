@@ -1,4 +1,4 @@
-# snippets
+# snippets (coming soon)
 snippets is an iOS app which bundles frequently used UI5 patterns at one place. 
 
 It is a toolbox to provide the right pattern for various requirements. Quicklinks direct you to working samples and the corresponding snippets which can be easily copied to your clipboard.
