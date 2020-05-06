@@ -23,7 +23,7 @@ Swift, the Swift logo, Xcode, Instruments, Cocoa Touch, Touch ID, AirDrop, iBeac
 <p>You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</p>
 <p>Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.</p>
 <p>This policy is effective as of 1 May 2020.</p>
-<p><a href="https://getterms.io" title="Generate a free privacy policy">Privacy Policy created with GetTerms.</a></p>
+
 
 <h2>simplesm Terms of Service</h2>
 <h3>1. Terms</h3>
@@ -56,4 +56,5 @@ Swift, the Swift logo, Xcode, Instruments, Cocoa Touch, Touch ID, AirDrop, iBeac
 <p>simplesm may revise these terms of service for its app at any time without notice. By using SimpleSnippets you are agreeing to be bound by the then current version of these terms of service.</p>
 <h3>8. Governing Law</h3>
 <p>These terms and conditions are governed by and construed in accordance with the laws of Germany and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.</p>
+<p><a href="https://getterms.io" title="Generate a free privacy policy">Privacy Policy created with GetTerms.</a></p>
 <p><a href="https://getterms.io" title="Generate a free terms of use document">Terms of Use created with GetTerms.</a></p>
